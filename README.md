@@ -4,7 +4,7 @@
 
 画像を取得した際などに、リアルタイムに画像をアトラス化して、バッチをかけやすくする。
 
-![sample image](https://github.com/taimiso0319/AtlasManager/blob/media/Media/sample.jpg=640x318)
+![sample image](https://github.com/taimiso0319/AtlasManager/blob/media/Media/sample.jpg){:height="640px" width="318px"}
 
 ![sample gif](https://github.com/taimiso0319/AtlasManager/blob/media/Media/sample.gif)
 
