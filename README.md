@@ -4,8 +4,7 @@
 
 画像を取得した際などに、リアルタイムに画像をアトラス化して、バッチをかけやすくする。
 
-![sample image](https://github.com/taimiso0319/AtlasManager/blob/media/Media/sample.jpg){:height="640px" width="318px"}
-
+![sample image](https://github.com/taimiso0319/AtlasManager/blob/media/Media/sample.jpg =640x)
 ![sample gif](https://github.com/taimiso0319/AtlasManager/blob/media/Media/sample.gif)
 
 おもにYoutube Data API v3用
